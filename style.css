@@ -1,0 +1,68 @@
+.header{
+   
+    margin: 0px;
+    
+    
+
+}
+.mh{
+    text-align: center;
+    align-content: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-attachment: fixed;
+    background-position: center;
+    font-size: 70px; 
+    
+      
+
+}
+.div > button{
+    width: 100px;
+    border: 2px rgb(76, 59, 106) solid;
+    border-radius: 10px;
+    align-content: center;
+    
+    
+}
+.content{
+    background-color: rgba(73, 116, 116, 0.556);
+    text-align: center;
+      
+    
+}
+.content h2,h3,{
+    text-shadow: 2px 2px;
+}
+.image6{
+    display: flex;
+    justify-content:space-evenly;
+    padding: 20px;
+}
+.images{
+    height: 200px;
+    width: 300px;
+    padding: 20px;
+}
+.images:hover{
+    height: 250px;
+    width: 350px;
+    transition: .5s;
+}
+.destination{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.input{
+    text-align: justify;
+  padding-left: 20px;
+  padding-bottom: 10px;
+    
+}
+.destination img{
+    box-shadow: 20px 20px 20px;
+}
+
